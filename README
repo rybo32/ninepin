@@ -1,3 +1,9 @@
+DEPENDENCIES:
+WiringPi - http://wiringpi.com/download-and-install/
+Objective C - sudo apt-get install gobjc
+Linux Source - https://github.com/notro/rpi-source/wiki (linux must be in /usr/src)
+GCC - The version must be equal to the version the kernel was compiled with
+
 ninepin: A utility to adapt computers of the past to modern times.
 Copyright 2013 by Chris Osborn <fozztexx@fozztexx.com>
 
