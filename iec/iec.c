@@ -28,7 +28,6 @@
 #include <linux/errno.h>
 #include <linux/proc_fs.h>
 #include <linux/fcntl.h>
-#include <asm/system.h>
 #include <asm/uaccess.h>
 #include <linux/interrupt.h>
 #include <linux/gpio.h>
